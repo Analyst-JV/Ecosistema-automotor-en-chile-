@@ -1,0 +1,5 @@
+{
+  "name": "Ventas Extract",
+  "description": "Intelligent PDF table extractor for sales data using Gemini Vision. Analyze multiple files, extract specific tables, and visualize monthly data density.",
+  "requestFramePermissions": []
+}
